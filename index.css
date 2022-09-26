@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+}
+
+#topofpage {
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(239, 239, 176);
+    height: 300px;
+
+}
