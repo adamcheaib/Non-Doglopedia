@@ -76,5 +76,9 @@ h2 {
 
 .lines {
     width: 50%;
-    border-color: rgba(78, 78, 78, 20%);
+    border-color: rgba(78, 78, 78, 10%);
+}
+
+footer {
+    text-align: center;
 }
