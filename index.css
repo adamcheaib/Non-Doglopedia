@@ -1,24 +1,37 @@
 body {
-    margin: 0;
-    padding: 0;
-    display: inline;
+    height: 1000px;
+    width: 1300px;
+
 }
 
 #topofpage {
     text-align: center;
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
+    color: rgb(161, 161, 93);
     background-color: rgb(239, 239, 176);
-    height: 300px;
-    padding: 0;
+    height: 150px;
     border-radius: 10px;
     width: 50%;
     margin-right: auto;
     margin-left: auto;
+    padding-top: 25px;
+}
+
+#titel {
+    font-family: serif;
+    font-size: x-larg
+}
+
+.description {
+    padding-top: 30px;
+    font-family: serif;
+    line-height: 0.1px;
 }
 
 #menuundertop {
-    text-align:center;
+    text-align: center;
+    text-decoration: underline;
 }
 
 #pagelist {
@@ -27,5 +40,23 @@ body {
 
 li {
     display: inline;
-    padding-right: 50px;
+    padding-right: 30px;
+}
+
+hr {
+    width: 50%;
+}
+
+h2 {
+    text-align: center;
+}
+
+#markzuck {
+    border: black 1px solid;
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
