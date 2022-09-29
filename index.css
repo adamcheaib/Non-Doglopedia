@@ -62,16 +62,18 @@ h2 {
 }
 
 #beskrivningar {
-    text-align: center;
+    text-align: left;
     width: 50%;
     margin-left: auto;
     margin-right: auto;
 }
 
-#unda1 {
+.unda {
     font-size: x-large;
+    text-align:left;
 }
 
 #average {
     font-size: xx-large;
 }
+
